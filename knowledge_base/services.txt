@@ -1,0 +1,46 @@
+Salon Name: Glow & Grace Salon
+
+Opening Hours:
+Monday to Saturday: 10:00 AM to 8:00 PM
+Sunday: Closed
+
+Services:
+
+Haircut
+Duration: 45 minutes
+Price: PKR 2,000
+Available with: Sara
+
+Hair Coloring
+Duration: 90 minutes
+Price: PKR 5,000
+Available with: Sara
+
+Facial
+Duration: 60 minutes
+Price: PKR 3,500
+Available with: Ayesha and Hina
+
+Manicure
+Duration: 45 minutes
+Price: PKR 2,000
+Available with: Hina
+
+Bridal Consultation
+Duration: 60 minutes
+Price: PKR 3,000
+Available with: Ayesha
+
+Policies:
+Customers may choose a preferred staff member, subject to availability.
+Appointments may be cancelled or rescheduled before the scheduled appointment time.
+Walk-ins may be accepted depending on availability, but appointments are recommended.
+Home service is not currently available.
+
+Promotions and Discounts:
+
+- New customers receive 10% off their first salon service.
+- Bridal Consultation customers receive 10% off a Bridal Package if they book within 7 days of the consultation.
+- Customers booking any two services on the same visit receive PKR 500 off the total bill.
+- Promotions cannot be combined.
+- Discounts may change, so customers can ask the salon for the latest offers.

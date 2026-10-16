@@ -1,0 +1,15 @@
+services:
+  salon-agent:
+    build:
+      context: ./app
+    container_name: salon-agent
+    restart: unless-stopped
+    ports:
+      - "8001:8000"
+    env_file:
+      - .env
+    volumes:
+      - ./data:/app/data
+      - ./knowledge_base:/knowledge_base
+      - ./chromadb:/chromadb
+      - ./secrets/google-calendar-service-account.json:/app/secrets/google-calendar-service-account.json:ro
